@@ -96,7 +96,7 @@ hr:not([size]) {
   height: 1px;
 }
 
-h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1, .quote__text {
   margin-top: 0;
   margin-bottom: 0.5rem;
   font-weight: 500;
@@ -3936,7 +3936,7 @@ textarea.form-control-lg {
 .nav-link.disabled {
   color: #6c757d;
   pointer-events: none;
-  cursor: default;
+  cursor: pointer;
 }
 
 .nav-tabs {
