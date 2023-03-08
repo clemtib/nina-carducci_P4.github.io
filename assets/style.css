@@ -115,8 +115,8 @@ article {
 
 .nav-pills .nav-link.active-tag,
 .nav-pills .show>.nav-link {
-	color: #fff;
-	background-color: #1B606F;
+	color: #000000;
+	background-color: #BEB45A;
 	/* BEB45A */
 	border-radius: 0;
 }
